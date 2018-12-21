@@ -6,6 +6,7 @@ const {
     GraphQLList
 } = require('graphql');
 const _ = require('lodash');
+
 let {movies} = require('./data.js')
 
 // Define Movie Type
