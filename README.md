@@ -1,7 +1,7 @@
 # NodeJS App with GraphQL
 
 This Code is part of a Blog. Read the blog to make the best use of this code.
-The Link to the blog is [here](#)
+The Link to the blog is [here](https://adityasridhar.com/posts/what-is-graphql-and-how-to-use-it)
 
 # Pre-requisites
 
